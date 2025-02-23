@@ -1,16 +1,29 @@
-## Hi there 👋
+### Привет!
 
-<!--
-**JaneKhris/janekhris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я Евгения, frontend-разработчик из Санкт-Петербурга.
 
-Here are some ideas to get you started:
+### С чем я работаю:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- HTML, CSS
+- JS
+- React
+- Python
+- Django
+
+
+### Проекты:
+
+- [Дипломный проект. Frontend](https://github.com/JaneKhris/dip_front)
+- [Дипломный проект. Backend](https://github.com/JaneKhris/dip_back)
+
+### Сертификаты: 
+
+- [HTML и CSS: основы веб-верстки](https://github.com/JaneKhris/janekhris/blob/main/certificates/certificate-html.pdf)
+- [Расширенный инструментарий JavaScript в браузере](https://github.com/JaneKhris/janekhris/blob/main/certificates/certificate-ahj.pdf)
+- [JavaScript: углубленный курс веб-разработки](https://github.com/JaneKhris/janekhris/blob/main/certificates/certificate-ajs.pdf)
+- [React: Библиотека №1 в современной фронтенд-разработке](https://github.com/JaneKhris/janekhris/blob/main/certificates/certificate-ra.pdf)
+- [Git — система контроля версий](https://github.com/JaneKhris/janekhris/blob/main/certificates/certificate-git.pdf)
+- [ООП и работа с API](https://github.com/JaneKhris/janekhris/blob/main/certificates/certificate-api.pdf)
+- [Профессиональная работа с Python](https://github.com/JaneKhris/janekhris/blob/main/certificates/certificate-pyadv.pdf)
+- [Базы данных для python-разработчиков](https://github.com/JaneKhris/janekhris/blob/main/certificates/certificate-bd.pdf)
+- [Django: создание backend-приложений](https://github.com/JaneKhris/janekhris/blob/main/certificates/certificate-django.pdf)
